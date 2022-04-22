@@ -41,6 +41,11 @@ CMOS stands for “Complementary Metal Oxide Semiconductor.” The CMOS battery 
 
 
 
+Power connections
+
+![image](https://user-images.githubusercontent.com/55901714/164589713-03611f63-a8cc-43eb-ba38-e3a1400d0a52.png)
+
+
 
 
 
