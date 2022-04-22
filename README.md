@@ -49,7 +49,8 @@ CMOS stands for “Complementary Metal Oxide Semiconductor.” The CMOS battery 
 
 - #### Fan connector
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4mUM8zh9q95kYvFqPZNsJJxopSU_tLfv-A&usqp=CAU
+![image](https://user-images.githubusercontent.com/55901714/164621905-3c32c4e7-adbc-4714-99c4-f8243a1b6317.png)
+
 
 
 
