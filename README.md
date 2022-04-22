@@ -28,5 +28,19 @@ Random access memory (RAM) is a computer's short-term memory, which it uses to h
 
 Alternatively known as a bus slot or expansion port, an expansion slot is a connection or port inside a computer on the motherboard or riser card. It provides an installation point for a hardware expansion card to be connected
 Why are slots used?
-A slot is a computer processor connection designed to make upgrading the processor easier, where the user would only have to slide a processor into a slot. 
+A slot is a computer processor connection designed to make upgrading the processor easier, where the user would only have to slide a processor into a slot. it is also used to extend the capability or of the computer because we can plug in extra drivers like a video driver.
+
+![image](https://user-images.githubusercontent.com/55901714/164587039-d202fe4c-c43e-4c62-a6b0-e4414120ee83.png)
+
+
+- #### CMOS battery
+
+CMOS stands for “Complementary Metal Oxide Semiconductor.” The CMOS battery powers the BIOS firmware in your laptop [2]. BIOS needs to remain operational even when your computer isn't plugged into a power source. That's where the battery comes in.
+
+![image](https://user-images.githubusercontent.com/55901714/164587574-bb61778b-0ede-4b34-96c2-cab98b2639cb.png) ![image](https://user-images.githubusercontent.com/55901714/164587748-27e7b473-788a-43ef-84f0-841af59838a2.png) ![image](https://user-images.githubusercontent.com/55901714/164587865-8743da13-234d-40b2-80b4-3461fd256350.png)
+
+
+
+
+
 
